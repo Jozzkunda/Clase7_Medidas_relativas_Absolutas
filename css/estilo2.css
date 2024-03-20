@@ -1,0 +1,16 @@
+/*Selector universal*/
+*{
+    background-color: black;
+    color: whitesmoke;
+}
+h2{
+    color: greenyellow;
+}
+
+/* Selector clase*/
+.distinto{
+ border: 1px, solid white;
+ color: red;
+}
+
+/* Selector identificador */
