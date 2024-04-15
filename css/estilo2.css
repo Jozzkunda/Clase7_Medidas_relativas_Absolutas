@@ -8,13 +8,13 @@ h2{
 }
 
 /* Selector clase*/
-.distinto{
- border: 1px, solid white;
+.parrafoDistinto{
+ border: 1px solid white;
  color: red;
 }
 
 /* Selector identificador */
 
-#unico{
+#parrafoUnico{
     background-color: blue;
 }
